@@ -24,3 +24,7 @@ La primera vez rellena **Tu negocio**: servicios y precios, horario, dirección,
 | `RESPUESTAS_MODELO` | `qwen3:14b` |
 
 Con menos de 12 GB de memoria de vídeo, `qwen3:8b` va más rápido.
+
+## Licencia
+
+MIT. Puedes usar, copiar, modificar y distribuir el código libremente, también con fines comerciales, manteniendo el aviso de autoría. Ver [LICENSE](LICENSE).
